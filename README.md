@@ -10,7 +10,6 @@ Welcome to the **Simple Register Form** mobile application! This project provide
 
 ## 📸 Screenshots
 
-Below are screenshots of the application interface:
 Here are some screenshots of the mobile application:
 
 <p align="center">
@@ -28,12 +27,6 @@ Pick an Image<br>
 Toast for Display Validation Message<br>
   <img src="https://github.com/Prasad-k-Github/Mobile-application-for-simple-register-form---front-end/blob/main/Screenshot_20241007-144257.jpg" alt="Screenshot 03" width="300"/>
 </p>
-
-### Registration Form
-![Registration Form](screenshots/registration_form.png)
-
-### Validation Feedback
-![Validation Feedback](screenshots/validation_feedback.png)
 
 ## 🚀 Getting Started
 
